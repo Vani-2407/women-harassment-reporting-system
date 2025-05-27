@@ -10,6 +10,10 @@ Technologies Used
 - CSS
 - PHP
 - MySQL
+  Gettting started
+   1.Clone the repository
+   2.Import the database schema
+   3.Configure the database connection
 
 To set up your Women Harassment Reporting System project, you'll need :
 Using XAMPP makes it easier!
