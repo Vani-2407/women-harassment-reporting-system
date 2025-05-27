@@ -4,15 +4,18 @@ Features:
  User-friendly interface for reporting incidents
  Secure data storage using MySQL
  Admin dashboard for managing reports
+
 Technologies Used:
 - HTML
 - CSS
 - PHP
 - MySQL
+
 Gettting started:
    1.Clone the repository
    2.Import the database schema
    3.Configure the database connection
+ 
  Server used:
    Xampp server
 
