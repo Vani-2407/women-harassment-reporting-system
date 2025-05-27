@@ -1,19 +1,20 @@
 A web-based platform for women to report incidents of harassment safely and confidentially.
 
-Features
+Features:
  User-friendly interface for reporting incidents
  Secure data storage using MySQL
  Admin dashboard for managing reports
-
-Technologies Used
+Technologies Used:
 - HTML
 - CSS
 - PHP
 - MySQL
-Gettting started
+Gettting started:
    1.Clone the repository
    2.Import the database schema
    3.Configure the database connection
+Server used:
+   Xampp server
 
 To set up your Women Harassment Reporting System project, you'll need :
 Using XAMPP makes it easier!
