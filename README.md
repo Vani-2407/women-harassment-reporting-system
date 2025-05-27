@@ -13,7 +13,7 @@ Gettting started:
    1.Clone the repository
    2.Import the database schema
    3.Configure the database connection
-Server used:
+ Server used:
    Xampp server
 
 To set up your Women Harassment Reporting System project, you'll need :
