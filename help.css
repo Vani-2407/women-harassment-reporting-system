@@ -1,0 +1,49 @@
+ody {
+	font-family: Arial, sans-serif;
+	background-color: #f2f2f2;
+}
+
+.container {
+	width: 80%;
+	margin: 40px auto;
+	background-color: #fff;
+	padding: 20px;
+	border: 1px solid #ddd;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.help-line {
+	float: left;
+	width: 60%;
+}
+
+.help-line h2 {
+	color: #333;
+	margin-bottom: 10px;
+}
+
+.help-line p {
+	color: #666;
+	margin-bottom: 20px;
+}
+
+.help-line h1 {
+	color: #ff69b4;
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+.image {
+	float: right;
+	width: 30%;
+}
+
+.image img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
+}
+
+.clearfix {
+	clear: both;
+}
